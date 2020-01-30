@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about_menu"
+        android:icon="@drawable/about_icon"
+        android:orderInCategory="1"
+        android:title="About" />
+    <item
+        android:id="@+id/details_menu"
+        android:icon="@drawable/details"
+        android:orderInCategory="2"
+        android:title="Details" />
+    <item
+        android:id="@+id/coordinator_menu"
+        android:icon="@drawable/codinator"
+        android:orderInCategory="3"
+        android:title="Event Head" />
+
+</menu>

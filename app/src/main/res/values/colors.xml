@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#AD1457</color>
+
+    <!--    <color name="navGreen">#000</color>-->
+    <color name="navGreen">#418556</color>
+    <!--    <color name="navGrey">#fff</color>-->
+    <color name="navGrey">#636769</color>
+    <color name="forest_green">#228B22</color>
+</resources>

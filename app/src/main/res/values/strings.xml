@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cognitio</string>
+
+    <string-array name="tshirt_size">
+        <item>XS (34)</item>
+        <item>S (36)</item>
+        <item>M (38)</item>
+        <item>L (40)</item>
+        <item>XL (42)</item>
+        <item>XXL (44)</item>
+    </string-array>
+
+    <string-array name="spinner">
+        <item>Administration</item>
+        <item>Core</item>
+        <item>Planning</item>
+        <item>Public Relation</item>
+        <item>Digital Media</item>
+        <item>Management</item>
+        <item>Corporate Affairs</item>
+        <item>Logistics &amp; Hospitality</item>
+        <item>Creative</item>
+        <item>Literary</item>
+    </string-array>
+
+    <string name="aboutus">
+        Cognitio is the annual fest of Mechanical Engineering Department of National Institute of Technology, Jamshedpur which comprises of plethora of events specifically designed to employ the technical grip as well as the soft skills of the budding technocrats.
+Initiated in the session 2017-18, its motive is to simulate innovative solutions to various real time problems in industrial sector.
+The theme of COGNITIO is “Green Technology”, which incorporates the elements of "Industry 4.0", carrying forward the theme and ideas for previous editions of Cognitio i.e.
+Green Technology focusses on continually evolving non toxic methods and techniques of generating energy with a special focus on sustainability in \nthe long run.
+    </string>
+
+</resources>
